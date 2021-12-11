@@ -1,3 +1,1 @@
-Java number one!!!
-Java number one!!!
-Java number one!!!
+some line for lesson about rebase
