@@ -2,3 +2,4 @@ Hello World!!!
 Java number one!!!
 Java number one!!!
 add new function by user1
+add new function by user2
